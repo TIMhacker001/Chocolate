@@ -20,4 +20,4 @@ aboba=2
 let abobus = a = aboba
 print (abobus)
 ```
-.[this is link(no)].(http://github.com).
+.[this is link(no)](http://github.com).
