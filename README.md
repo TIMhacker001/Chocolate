@@ -1,23 +1,16 @@
-# Chocolate
-Chocolate with tea
-
-# It's BIG (h1 tag)
-## Iy's still big(h2 tag)
-###### Ok, this is small(h6)
-
-** This text will be bald **
-* text will be italian *
-
-This is Unordered list:
-* item 1
-* item 2
-  * item 2a
+# I'm Chocolate with tea
+## You can call me just Chocolate
+####If tou want
 
 ```javascript
+Me being Chocolate = true
+Me being melted Chocolate = false
+if (Me being Chocolate && Me being melted Chocolate == false)
+{
+let me being alive = true
+}
+if (me being alive){
+print ("I'm alive")
+}
 
-a=1
-aboba=2
-let abobus = a = aboba
-print (abobus)
 ```
-.[this is link(no)](http://github.com).
