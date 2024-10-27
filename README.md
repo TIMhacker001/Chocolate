@@ -1,17 +1,17 @@
 # Chocolate
 Chocolate with tea
 
-#It's BIG (h1 tag)
-##Iy's still big(h2 tag)
-######Ok, this is small(h6)
+# It's BIG (h1 tag)
+## Iy's still big(h2 tag)
+###### Ok, this is small(h6)
 
-**This text willbe bald**
-*This text will be italian*
+** This text willbe bald **
+* text will be italian *
 
 This is Unordered list:
-*item
-*item
-  *item
+* item 1
+* item 2
+  * item 2a
 
 ```javascript
 
