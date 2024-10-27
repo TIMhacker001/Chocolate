@@ -5,7 +5,7 @@ Chocolate with tea
 ## Iy's still big(h2 tag)
 ###### Ok, this is small(h6)
 
-** This text willbe bald **
+** This text will be bald **
 * text will be italian *
 
 This is Unordered list:
@@ -20,4 +20,4 @@ aboba=2
 let abobus = a = aboba
 print (abobus)
 ```
-.[this is link(no)].(http://github.com)
+.[this is link(no)].(http://github.com).
